@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Documents/GitHub/MLflow-Test/mlruns/0/c2909198df8f4008a7eb98be78d47f67/artifacts
+end_time: 1722646284631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2909198df8f4008a7eb98be78d47f67
+run_name: amazing-zebra-787
+run_uuid: c2909198df8f4008a7eb98be78d47f67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722646282659
+status: 3
+tags: []
+user_id: CJMO

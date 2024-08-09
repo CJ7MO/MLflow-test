@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Documents/GitHub/MLflow-Test/mlruns/0/6b30bbe2ffa642ebaaeb852e18ea204e/artifacts
+end_time: 1722646301535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b30bbe2ffa642ebaaeb852e18ea204e
+run_name: respected-asp-477
+run_uuid: 6b30bbe2ffa642ebaaeb852e18ea204e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722646299593
+status: 3
+tags: []
+user_id: CJMO

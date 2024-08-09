@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Documents/GitHub/MLflow-Test/mlruns/0/035ab1218ad2429fbea4a483a04bbc68/artifacts
+end_time: 1722646320899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 035ab1218ad2429fbea4a483a04bbc68
+run_name: bemused-robin-756
+run_uuid: 035ab1218ad2429fbea4a483a04bbc68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722646319010
+status: 3
+tags: []
+user_id: CJMO

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Documents/GitHub/MLflow-Test/mlruns/0/46eaab692a294052b45210219ef6469d/artifacts
+end_time: 1722646455820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46eaab692a294052b45210219ef6469d
+run_name: zealous-lamb-960
+run_uuid: 46eaab692a294052b45210219ef6469d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722646453960
+status: 3
+tags: []
+user_id: CJMO
