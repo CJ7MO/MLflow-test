@@ -15,12 +15,14 @@ from urllib.parse import urlparse
 import mlflow
 from mlflow.models.signature import infer_signature
 import mlflow.sklearn
-
+import dagshub
 import logging
 
 logging.basicConfig(level=logging.WARN)
 logger = logging.getLogger(__name__)
 
+dagshub.init(repo_owner='CJ7MO', repo_name='MLflow-test', mlflow=True)
+mlflow.set_tracking_uri('https://dagshub.com/CJ7MO/MLflow-test.mlflow')
 
 def eval_metrics(actual, pred):
     rmse = np.sqrt(mean_squared_error(actual, pred))
